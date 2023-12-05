@@ -12,7 +12,7 @@ You can see the script work when clicking generating password and following all 
 
 ## Usage
 
-You can view the page through this link .... 
+You can view the page through this link https://y1va.github.io/03-JS-Password-Generator/
 
 
 ## Preview
